@@ -5,3 +5,4 @@
 //= link decidim/orders
 //= link decidim/map.js
 //= link decidim/map.css
+//= link decidim/widget.css
